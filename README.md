@@ -26,4 +26,11 @@ The dashboard includes filters and slicers for dynamic analysis.
 - ## Files Included
 - Power BI dashboard (.pbix)
 - Excel dataset
+
+
+  ## Key Insights
+- Top-performing products
+- Monthly revenue trends
+- Profit analysis
+- Customer segmentation
   
